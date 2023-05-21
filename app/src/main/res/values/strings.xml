@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notemify</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_app">About</string>
+    <string name="about">
+        Notemify merupakan aplikasi yang berfungsi untuk membantu seseorang dalam mencatat catatan sehingga seseorang dapat terbantu jika lupa. Terima kasih
+    </string>
+    <string name="add_page">Add Note</string>
+</resources>
