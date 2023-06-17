@@ -7,4 +7,8 @@
         Notemify merupakan aplikasi yang berfungsi untuk membantu seseorang dalam mencatat catatan sehingga seseorang dapat terbantu jika lupa. Terima kasih
     </string>
     <string name="add_page">Add Note</string>
+    <string name="notif_title">Nanti Lupa</string>
+    <string name="notif_text">Ayo catat</string>
+    <string name="channel_name">Updater</string>
+    <string name="channel_desc">Jangan lupa catat</string>
 </resources>

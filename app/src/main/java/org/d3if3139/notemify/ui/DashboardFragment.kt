@@ -37,6 +37,8 @@ class DashboardFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
         noteViewModel = (activity as MainActivity).noteViewModel
 
+        noteViewModel.scheduleUpdater(requireActivity().application)
+
         setUpRecyclerView()
 
         binding.aboutBtn.setOnClickListener {
